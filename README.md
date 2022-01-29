@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MansourZa
+- 👋 Hi, I’m @MansourZarrin
 - 👀 I’m interested in Operations Research, Data Analysis, Simulation Modelling and Machine Learnig
 - 💞️ I’m looking to collaborate on applied operations reseach models and data analysis.
 - 📫 How to reach me: mansour.zarrin@gmail.com
